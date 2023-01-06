@@ -6,6 +6,6 @@
 - Noam DE MASURE
 - Charbel SALHAB
 
-### Welcome on "develop" branch
+### Welcome on "main" branch
 
 
